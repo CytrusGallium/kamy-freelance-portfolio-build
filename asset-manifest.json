@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa5773f4.css",
+    "main.js": "/static/js/main.5381d1b0.js",
+    "static/js/787.b2ea7e6a.chunk.js": "/static/js/787.b2ea7e6a.chunk.js",
+    "static/media/Rkn-SalesPoint.png": "/static/media/Rkn-SalesPoint.bf2f286da0f4672fdce0.png",
+    "static/media/Rkn-MainMenu.png": "/static/media/Rkn-MainMenu.31598922f7f1a5299b7b.png",
+    "static/media/Rkn-Numic.png": "/static/media/Rkn-Numic.cd2ee60ffc4c8dce786f.png",
+    "static/media/Rkn-CateringSalesPoint.png": "/static/media/Rkn-CateringSalesPoint.47fe707bf40962f4d2c0.png",
+    "static/media/Rkn-Shop.png": "/static/media/Rkn-Shop.d9087922877322b6e292.png",
+    "static/media/Rkn-CateringSalesList.png": "/static/media/Rkn-CateringSalesList.981051581b1515701326.png",
+    "static/media/Rkn-Stats.png": "/static/media/Rkn-Stats.cab79d33a17fe7838343.png",
+    "static/media/Rkn-Facebook.png": "/static/media/Rkn-Facebook.15443872d36a97d937a5.png",
+    "static/media/Rkn-RepairOrdersList.png": "/static/media/Rkn-RepairOrdersList.c5a51586f5daee12ff8d.png",
+    "static/media/Rkn-ProductList.png": "/static/media/Rkn-ProductList.02fc011d39a8a4e34684.png",
+    "static/media/Rkn-QRLogin.png": "/static/media/Rkn-QRLogin.d4a78028f563f390edae.png",
+    "static/media/Rkn-Login.png": "/static/media/Rkn-Login.03818e107a7ea65f8fff.png",
+    "static/media/chakra-petch-latin-400-normal.woff": "/static/media/chakra-petch-latin-400-normal.193dcf80573b0b436a4d.woff",
+    "static/media/chakra-petch-latin-ext-400-normal.woff": "/static/media/chakra-petch-latin-ext-400-normal.82b73759100eea0c1b44.woff",
+    "static/media/chakra-petch-thai-400-normal.woff": "/static/media/chakra-petch-thai-400-normal.76a2185a79c5fcb604a7.woff",
+    "static/media/chakra-petch-latin-400-normal.woff2": "/static/media/chakra-petch-latin-400-normal.45099b4b202c56917332.woff2",
+    "static/media/chakra-petch-latin-ext-400-normal.woff2": "/static/media/chakra-petch-latin-ext-400-normal.9d8ef46b4d8c0a09abf7.woff2",
+    "static/media/chakra-petch-thai-400-normal.woff2": "/static/media/chakra-petch-thai-400-normal.f5107669b4a4ddcfbc0f.woff2",
+    "static/media/chakra-petch-vietnamese-400-normal.woff": "/static/media/chakra-petch-vietnamese-400-normal.2e224f789cf380868690.woff",
+    "static/media/chakra-petch-vietnamese-400-normal.woff2": "/static/media/chakra-petch-vietnamese-400-normal.0dc81d529f8224536509.woff2",
+    "index.html": "/index.html",
+    "main.fa5773f4.css.map": "/static/css/main.fa5773f4.css.map",
+    "main.5381d1b0.js.map": "/static/js/main.5381d1b0.js.map",
+    "787.b2ea7e6a.chunk.js.map": "/static/js/787.b2ea7e6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa5773f4.css",
+    "static/js/main.5381d1b0.js"
+  ]
+}
