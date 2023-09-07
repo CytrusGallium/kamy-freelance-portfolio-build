@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa5773f4.css",
-    "main.js": "/static/js/main.5381d1b0.js",
+    "main.css": "/static/css/main.d7eae8b5.css",
+    "main.js": "/static/js/main.0a0492e7.js",
     "static/js/787.b2ea7e6a.chunk.js": "/static/js/787.b2ea7e6a.chunk.js",
+    "static/media/Rkn-Shop.png": "/static/media/Rkn-Shop.c62e3e90dcd04f4fe521.png",
     "static/media/Rkn-SalesPoint.png": "/static/media/Rkn-SalesPoint.bf2f286da0f4672fdce0.png",
     "static/media/Rkn-MainMenu.png": "/static/media/Rkn-MainMenu.31598922f7f1a5299b7b.png",
     "static/media/Rkn-Numic.png": "/static/media/Rkn-Numic.cd2ee60ffc4c8dce786f.png",
     "static/media/Rkn-CateringSalesPoint.png": "/static/media/Rkn-CateringSalesPoint.47fe707bf40962f4d2c0.png",
-    "static/media/Rkn-Shop.png": "/static/media/Rkn-Shop.d9087922877322b6e292.png",
     "static/media/Rkn-CateringSalesList.png": "/static/media/Rkn-CateringSalesList.981051581b1515701326.png",
     "static/media/Rkn-Stats.png": "/static/media/Rkn-Stats.cab79d33a17fe7838343.png",
     "static/media/Rkn-Facebook.png": "/static/media/Rkn-Facebook.15443872d36a97d937a5.png",
@@ -24,12 +24,12 @@
     "static/media/chakra-petch-vietnamese-400-normal.woff": "/static/media/chakra-petch-vietnamese-400-normal.2e224f789cf380868690.woff",
     "static/media/chakra-petch-vietnamese-400-normal.woff2": "/static/media/chakra-petch-vietnamese-400-normal.0dc81d529f8224536509.woff2",
     "index.html": "/index.html",
-    "main.fa5773f4.css.map": "/static/css/main.fa5773f4.css.map",
-    "main.5381d1b0.js.map": "/static/js/main.5381d1b0.js.map",
+    "main.d7eae8b5.css.map": "/static/css/main.d7eae8b5.css.map",
+    "main.0a0492e7.js.map": "/static/js/main.0a0492e7.js.map",
     "787.b2ea7e6a.chunk.js.map": "/static/js/787.b2ea7e6a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa5773f4.css",
-    "static/js/main.5381d1b0.js"
+    "static/css/main.d7eae8b5.css",
+    "static/js/main.0a0492e7.js"
   ]
 }
